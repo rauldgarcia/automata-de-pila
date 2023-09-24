@@ -145,39 +145,10 @@ Estado 9
 
 2. **Autómata**
 
-<a name="_page4_x125.80_y129.78"></a>El autómata generado por el lenguaje es el siguiente: start *S*  →→(0)∧ ∧*xSz* (1)*S* → *S*∧
+<a name="_page4_x125.80_y129.78"></a>El autómata generado por el lenguaje es el siguiente: 
 
-*S S* S  ![](Aspose.Words.8b67153e-1934-4429-856d-abe6f6f00dc5.001.png)
+![](Aspose.Words.8b67153e-1934-4429-856d-abe6f6f00dc5.001.png)
 
-*S* →∧ *xyTyz*
-
-x
-
-(2) ![](Aspose.Words.8b67153e-1934-4429-856d-abe6f6f00dc5.002.png)
-
-*S* → *x*∧*Sz* 
-
-S→ *x*∧*yTyz* S (3) z 
-
-x S →∧ *xSz S* → *xS*∧*z* (4)*S* → *xSz*∧
-
-S →∧ *xyTyz*
-
-y
-
-(5) 
-
-*S* → *xy*∧*Tyz λ* (6)*T* → *λ*∧ 
-
-T →∧ *λ* 
-
-T 
-
-(7) y (8) z 
-
-*S* → *xyT*∧*yz S* → *xyTy*∧*z* (9)*S* → *xyTyz*∧
-
-6
 
 3. **Parse<a name="_page5_x125.80_y129.78"></a> Table**
 
