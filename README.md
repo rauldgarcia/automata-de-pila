@@ -1,6 +1,6 @@
 Autómatas y Lenguajes Formales Proyecto
 
-Raúl Daniel García Ramón rauld.garcia95@gmail.com zs22000520@estudiantes.uv.mx
+Raúl Daniel García Ramón rauld.garcia95@gmail.com
 
 22 de diciembre de 2022
 
